@@ -1,6 +1,6 @@
 # Cubi Estate
 
-Search more than 2.2 million homes for sale and rent across 17 European countries, in English, Portuguese, Spanish, French, German, Dutch or Russian, without leaving your conversation with Claude.
+Search more than 2.2 million homes for sale and rent across 17 European countries, in English, Portuguese, Spanish, French, German or Dutch, without leaving your conversation with Claude.
 
 Covered countries: Portugal, Spain, Italy, France, Germany, Belgium, Austria, Finland, Cyprus, Croatia, Slovakia, Malta, Greece, Czech Republic, Poland, Netherlands and Bulgaria.
 

@@ -5,7 +5,7 @@ description: Search Cubi Estate's listings of homes for sale or rent in Europe. 
 
 # Find homes with Cubi Estate
 
-Cubi Estate's connector searches live listings across 17 European countries in 7 languages (English, Portuguese, Spanish, French, German, Dutch, Russian). Every tool is read-only.
+Cubi Estate's connector searches live listings across 17 European countries, in English, Portuguese, Spanish, French, German or Dutch. Every tool is read-only.
 
 ## Choose the tool
 
