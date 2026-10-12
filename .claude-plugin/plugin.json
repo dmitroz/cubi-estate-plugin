@@ -1,0 +1,10 @@
+{
+  "name": "cubi-estate",
+  "displayName": "Cubi Estate",
+  "version": "1.0.0",
+  "description": "Search 2.2M+ homes for sale and rent across 17 European countries in 7 languages, open full listing details, compare an asking price with similar homes, and see how a market is moving, through Cubi Estate's read-only connector.",
+  "author": { "name": "Cubi Estate", "url": "https://www.cubi.estate" },
+  "homepage": "https://www.cubi.estate",
+  "license": "MIT",
+  "keywords": ["real-estate", "property-search", "europe", "housing", "rentals"]
+}
